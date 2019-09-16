@@ -1,2 +1,2 @@
 # banana
-tiny, micro, php frameword
+tiny, micro, php framework
