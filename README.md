@@ -1,8 +1,11 @@
 # banana
 tiny, micro, php framework
 
+
+
+
 $composer dumpautoload
 
-$ｃｄ htdocs
+$cd banana/htdocs
 
 $php -S localhost:8000
